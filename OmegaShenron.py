@@ -34,7 +34,7 @@ async def MutenRoshi(interaction: discord.Interaction):
 async def trunks(interaction: discord.Interaction):
     await interaction.response.send_message("https://files.catbox.moe/yw0gis.mp4")
 
-@bot.tree.command(name="vagioa")
+@bot.tree.command(name="vagita")
 async def vagita(interaction: discord.Interaction):
     await interaction.response.send_message("https://files.catbox.moe/h39ekv.mp4")
 
